@@ -45,42 +45,26 @@ noogat_inconsistency_checker/
 └── README.md               # Project documentation
 ⚙️ Installation & Setup
 Clone the Repository
-
-bash
-Copy
-Edit
 git clone https://github.com/bhanu07-v/noogat_inconsistency_checker.git
 cd noogat_inconsistency_checker
+
+
 Install Dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Set Your Gemini API Key
 Create a .env file in the project root:
-
-ini
-Copy
-Edit
 GEMINI_API_KEY=your_api_key_here
+
 ▶️ Usage
 Run the script:
-
-bash
-Copy
-Edit
 python main.py
 When prompted, enter the path to your PPTX file:
 
-pgsql
-Copy
-Edit
 Enter path to PPTX file: NoogatAssignment.pptx
 📊 Example Output (report.txt)
-nginx
-Copy
-Edit
+
 Slide 2 & Slide 5 – Revenue mismatch:
 Slide 2 states $5M, Slide 5 states $4.2M
 
