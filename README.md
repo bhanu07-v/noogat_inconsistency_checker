@@ -90,5 +90,7 @@ API usage is subject to Gemini’s token limits.
 📅 Submission Info
 
 Built by: Bhanuteja Valaboju
+
 IITM Data Science 
+
 Contact: bhanutejavalaboju07@gmail.com
