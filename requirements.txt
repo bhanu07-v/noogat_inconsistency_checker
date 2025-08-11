@@ -1,0 +1,9 @@
+python-pptx
+pillow
+pytesseract
+tqdm
+regex
+python-dateutil
+rapidfuzz
+python-dotenv
+google-generativeai

@@ -1,0 +1,599 @@
+{
+  "local": [
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        2
+      ],
+      "a_raw": "2",
+      "b_raw": "3",
+      "context_a": "Case Study – Noogat helps consultants make decks 2x faster using AI Source:_______ Impact $2M Contex",
+      "context_b": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        3
+      ],
+      "a_raw": "$2M",
+      "b_raw": "50",
+      "context_a": "ke decks 2x faster using AI Source:_______ Impact $2M Context Consultants often face challenges in crea",
+      "context_b": "ing Areas in Slide Creation and Formatting Noogat: 50 Hours Saved Per Consultant Monthly Key Area Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        2
+      ],
+      "a_raw": "15 m",
+      "b_raw": "$3M",
+      "context_a": "us on high-value tasks and deliver results faster. 15 mins Saved in lost productivity hours Saved per sli",
+      "context_b": "'s AI-powered solution streamlines deck creation. $3M saved in lost productivity hours annually Improve"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        2
+      ],
+      "a_raw": "15 m",
+      "b_raw": "20 m",
+      "context_a": "us on high-value tasks and deliver results faster. 15 mins Saved in lost productivity hours Saved per sli",
+      "context_b": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        2
+      ],
+      "a_raw": "15 m",
+      "b_raw": "3",
+      "context_a": "us on high-value tasks and deliver results faster. 15 mins Saved in lost productivity hours Saved per sli",
+      "context_b": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        3
+      ],
+      "a_raw": "15 m",
+      "b_raw": "8",
+      "context_a": "us on high-value tasks and deliver results faster. 15 mins Saved in lost productivity hours Saved per sli",
+      "context_b": "ccuracy and visual appeal. This saves an estimated 8 hours per consultant monthly. Noogat optimizes sli"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        1,
+        4
+      ],
+      "a_raw": "15 m",
+      "b_raw": "1",
+      "context_a": "us on high-value tasks and deliver results faster. 15 mins Saved in lost productivity hours Saved per sli",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "$3M",
+      "b_raw": "10",
+      "context_a": "'s AI-powered solution streamlines deck creation. $3M saved in lost productivity hours annually Improve",
+      "context_b": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "$3M",
+      "b_raw": "12",
+      "context_a": "'s AI-powered solution streamlines deck creation. $3M saved in lost productivity hours annually Improve",
+      "context_b": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "$3M",
+      "b_raw": "12",
+      "context_a": "'s AI-powered solution streamlines deck creation. $3M saved in lost productivity hours annually Improve",
+      "context_b": " time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 ho"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "$3M",
+      "b_raw": "8",
+      "context_a": "'s AI-powered solution streamlines deck creation. $3M saved in lost productivity hours annually Improve",
+      "context_b": ", 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation. C"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "50",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "ing Areas in Slide Creation and Formatting Noogat: 50 Hours Saved Per Consultant Monthly Key Area Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "10",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "12",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "8",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "ccuracy and visual appeal. This saves an estimated 8 hours per consultant monthly. Noogat optimizes sli"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "6",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "20 m",
+      "b_raw": "4",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "h minimal manual checking. This saves an estimated 4 hours per consultant monthly. Automated Formatting"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "12",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": " time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 ho"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "8",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": ", 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation. C"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "2",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "ion. Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "3",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "nthly time savings: 2 hours from basic formatting, 3 hours from content generation, and 1 hour from lim"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "1",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "c formatting, 3 hours from content generation, and 1 hour from limited chart/table support. Gamma provi"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "1",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "2",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "onthly time savings: 1 hour from basic formatting, 2 hours from content generation, and 0.5 hours from "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "20 m",
+      "b_raw": "0.5",
+      "context_a": "ta analysis, content generation, and slide design. 20 mins saved per slide created Enabled focus on high-",
+      "context_b": "c formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation. Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "3",
+      "b_raw": "12",
+      "context_a": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and",
+      "context_b": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "3",
+      "b_raw": "8",
+      "context_a": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and",
+      "context_b": "ccuracy and visual appeal. This saves an estimated 8 hours per consultant monthly. Noogat optimizes sli"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "3",
+      "b_raw": "6",
+      "context_a": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and",
+      "context_b": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        3
+      ],
+      "a_raw": "3",
+      "b_raw": "4",
+      "context_a": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and",
+      "context_b": "h minimal manual checking. This saves an estimated 4 hours per consultant monthly. Automated Formatting"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        2,
+        4
+      ],
+      "a_raw": "3",
+      "b_raw": "8",
+      "context_a": " Enables consultants to focus on high-value tasks. 3x faster deck creation speed Enhanced accuracy and",
+      "context_b": ", 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation. C"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "50",
+      "b_raw": "10",
+      "context_a": "ing Areas in Slide Creation and Formatting Noogat: 50 Hours Saved Per Consultant Monthly Key Area Noogat",
+      "context_b": "Noogat delivers significant monthly time savings: 10 hours from automated formatting, 12 hours from AI-"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "50",
+      "b_raw": "2",
+      "context_a": "ing Areas in Slide Creation and Formatting Noogat: 50 Hours Saved Per Consultant Monthly Key Area Noogat",
+      "context_b": "ion. Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "50",
+      "b_raw": "1",
+      "context_a": "ing Areas in Slide Creation and Formatting Noogat: 50 Hours Saved Per Consultant Monthly Key Area Noogat",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "10",
+      "b_raw": "12",
+      "context_a": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered ",
+      "context_b": " time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 ho"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "10",
+      "b_raw": "8",
+      "context_a": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered ",
+      "context_b": ", 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation. C"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "10",
+      "b_raw": "1",
+      "context_a": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered ",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "10",
+      "b_raw": "0.5",
+      "context_a": "nating manual adjustments. This saves an estimated 10 hours per consultant monthly. Noogat's AI-powered ",
+      "context_b": "c formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation. Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "10",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": "Noogat delivers significant monthly time savings: 10 hours from automated formatting, 12 hours from AI-"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "8",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": ", 12 hours from AI-powered content generation, and 8 hours from streamlined chart and table creation. C"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "2",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": "ion. Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "3",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": "nthly time savings: 2 hours from basic formatting, 3 hours from content generation, and 1 hour from lim"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "1",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "12",
+      "b_raw": "2",
+      "context_a": "ducing initial setup time. This saves an estimated 12 hours per consultant monthly. Noogat streamlines t",
+      "context_b": "onthly time savings: 1 hour from basic formatting, 2 hours from content generation, and 0.5 hours from "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "8",
+      "b_raw": "0.5",
+      "context_a": "ccuracy and visual appeal. This saves an estimated 8 hours per consultant monthly. Noogat optimizes sli",
+      "context_b": "c formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation. Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "10",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "Noogat delivers significant monthly time savings: 10 hours from automated formatting, 12 hours from AI-"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "12",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": " time savings: 10 hours from automated formatting, 12 hours from AI-powered content generation, and 8 ho"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "2",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "ion. Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "3",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "nthly time savings: 2 hours from basic formatting, 3 hours from content generation, and 1 hour from lim"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "1",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "c formatting, 3 hours from content generation, and 1 hour from limited chart/table support. Gamma provi"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "1",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "2",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "onthly time savings: 1 hour from basic formatting, 2 hours from content generation, and 0.5 hours from "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "6",
+      "b_raw": "0.5",
+      "context_a": "ents for visual hierarchy. This saves an estimated 6 hours per consultant monthly. Noogat's automated r",
+      "context_b": "c formatting, 2 hours from content generation, and 0.5 hours from very basic chart/table creation. Noogat"
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "4",
+      "b_raw": "2",
+      "context_a": "h minimal manual checking. This saves an estimated 4 hours per consultant monthly. Automated Formatting",
+      "context_b": "ion. Copilot offers moderate monthly time savings: 2 hours from basic formatting, 3 hours from content "
+    },
+    {
+      "type": "number_conflict",
+      "slides": [
+        3,
+        4
+      ],
+      "a_raw": "4",
+      "b_raw": "1",
+      "context_a": "h minimal manual checking. This saves an estimated 4 hours per consultant monthly. Automated Formatting",
+      "context_b": "port. Gamma provides minimal monthly time savings: 1 hour from basic formatting, 2 hours from content g"
+    }
+  ],
+  "gemini": []
+}
