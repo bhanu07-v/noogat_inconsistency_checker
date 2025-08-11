@@ -36,7 +36,7 @@ noogat_inconsistency_checker/
 ## ⚙️ Installation & Setup
 
 1️⃣ **Clone the repository** (or download ZIP)  
-```bash
+
 git clone https://github.com/YOUR_USERNAME/noogat_inconsistency_checker.git
 cd noogat_inconsistency_checker
 
